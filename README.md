@@ -74,6 +74,3 @@ python app.py
 python -m unittest discover -s tests -p "test_*.py"
 ```
 
-## Câu trả lời phỏng vấn gợi ý
-
-"Em có thiết kế hệ thống ghi log bảo mật để theo dõi các hành vi truy cập trái phép vào camera, giúp audit truy cập và hỗ trợ điều tra sự cố." 
